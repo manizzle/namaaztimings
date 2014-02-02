@@ -1,0 +1,70 @@
+package com.mohammed.spinnerdemo;
+
+
+import android.app.Activity;
+import com.mohammed.spinnerdemo.*;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.Menu;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.AdapterView.OnItemSelectedListener;
+import android.widget.ArrayAdapter;
+import android.widget.Spinner;
+import android.widget.TextView;
+
+
+
+public class MainActivity extends Activity {
+
+	Spinner spinner;
+	/*TextView textView1;*/
+	String[] args={"Namaaz","Qibla","Calander"};
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		View current_view = findViewById(R.layout.activity_main);
+		ViewGroup view_parent = (ViewGroup)C.getParent();
+		int index = view_parent.indexOfChild(C);
+		view_parent.removeView(C);
+		current_view = getLayoutInflater().inflate(R.layout.);
+		setContentView(R.layout.activity_main);
+		spinner=(Spinner)findViewById(R.id.myspinner);
+		ArrayAdapter<String>adapter=new ArrayAdapter<String>(this,android.R.layout.simple_spinner_dropdown_item,args);
+		spinner.setAdapter(adapter);
+		
+
+		spinner.setOnItemSelectedListener(new OnItemSelectedListener() {
+			@Override
+			public void onItemSelected(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
+				
+				
+				if (String.valueOf(spinner.getSelectedItem().toString()).equals("Namaaz"))
+					
+					System.out.println("hey");	
+			
+			else if (String.valueOf(spinner.getSelectedItem().toString()).equals("Qibla"))
+				System.out.println("Qibla");
+			
+			}
+
+			@Override
+			public void onNothingSelected(AdapterView<?> arg0) {
+				// TODO Auto-generated method stub
+				
+			}
+		
+		});
+	}
+			
+
+
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.main, menu);
+		return true;
+	}
+
+}

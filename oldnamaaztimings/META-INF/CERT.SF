@@ -1,0 +1,214 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: ZF2QU4vPVj2HrgdGTRtkfPksF0Q=
+
+Name: res/drawable-hdpi/ic_tab_qibla_selected.png
+SHA1-Digest: /DM0C5PQlbF6gn3euhMLpb6Yn/E=
+
+Name: res/drawable-mdpi/ic_menu_close.png
+SHA1-Digest: cnvYCRjb3PoOvI5gA00fffweETo=
+
+Name: res/drawable/ic_tab_qibla.xml
+SHA1-Digest: NTL8CUe49OCDB7hlsUx7AdhDwOo=
+
+Name: res/drawable-hdpi/ic_menu_close.png
+SHA1-Digest: LKXsCs9yO/JaqB5lCSUUNbU6xmM=
+
+Name: res/drawable-hdpi/ic_menu_settings.png
+SHA1-Digest: 3PuaD8TtJHYHHRyVecDosRg/398=
+
+Name: res/drawable/qibla_dir.png
+SHA1-Digest: XCapT5uEZqEzwxh1JT2iIeJ6nkw=
+
+Name: res/drawable-ldpi/ic_tab_namaaz_selected.png
+SHA1-Digest: Z+XlCFM8CpYb1PcOp8W4XOVMbuw=
+
+Name: res/drawable-ldpi/ic_tab_qibla_selected.png
+SHA1-Digest: nx3pTHqDPbT/iz9hmjrXxRLSHdA=
+
+Name: res/drawable-mdpi/ic_tab_calendar_unselected.png
+SHA1-Digest: X46f0fU7FToL8e1z+TdQ52XYIFQ=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: aMQQk4wsv03n6RbqK8S8/HyhOu4=
+
+Name: res/drawable-hdpi/ic_tab_calendar_selected.png
+SHA1-Digest: VmtzDKEVWj5UfPoTdN7gWc98NpI=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: S5kbrPdu6WRS6kRcyLyfH3yP19o=
+
+Name: res/drawable/ic_tab_namaaz.xml
+SHA1-Digest: e05CzDBqNsLelXlhU3X6yvWlpe8=
+
+Name: res/drawable-hdpi-v5/ic_tab_namaaz_unselected.png
+SHA1-Digest: ucQC5mj7yIM3zf1namgh2fuqe3U=
+
+Name: res/drawable-ldpi-v5/ic_tab_namaaz_unselected.png
+SHA1-Digest: We5tC8tfSf0+BE2ibKcJ5uKWYr8=
+
+Name: res/drawable-hdpi/ic_tab_namaaz_unselected.png
+SHA1-Digest: mjDrL+sEAKNWQ6+3g/zfX7cQ1Oc=
+
+Name: res/raw/azaan.mp3
+SHA1-Digest: ywPA+/ScRecWalshebhev1az1zg=
+
+Name: res/layout/namaaz.xml
+SHA1-Digest: yJeBtL7ZlyPTkSG4Sb4q77Bq1Pw=
+
+Name: res/drawable-ldpi/ic_menu_mylocation.png
+SHA1-Digest: aM9uDxFMvCHHzCRKz2wOqkA1pt0=
+
+Name: res/drawable/wborder.png
+SHA1-Digest: 9ImFPa1J2XFNnLWep6DUSz0hAeU=
+
+Name: res/drawable-ldpi-v5/ic_tab_namaaz_selected.png
+SHA1-Digest: G+EHzjNqHzdOVfWRTTzb9rL7wrk=
+
+Name: res/drawable-mdpi/ic_tab_calendar_selected.png
+SHA1-Digest: NKbnRX7j4j0e2rgdBGM2738HQYY=
+
+Name: res/drawable-mdpi-v5/ic_tab_calendar_unselected.png
+SHA1-Digest: sKC+Yg3HnV49z5MSF5XUKNGu7Tc=
+
+Name: res/layout/calendar.xml
+SHA1-Digest: fChIGk30i4GAsJpowWZY9UxDMgQ=
+
+Name: res/color/tab_indicator_text.xml
+SHA1-Digest: XUZku/CTpib9F0fZYIG6/o5em64=
+
+Name: res/drawable-ldpi-v5/ic_tab_qibla_unselected.png
+SHA1-Digest: C/XY5zC6417Z2D1nqdLfIUCioEI=
+
+Name: res/layout/main.xml
+SHA1-Digest: 4WyoXAyWYAyMEfTw4k34ySLmN4Y=
+
+Name: res/drawable-hdpi-v5/ic_tab_calendar_unselected.png
+SHA1-Digest: x9A9i6wBxcTOFXdbVwTKxnhO8xo=
+
+Name: res/drawable-ldpi/ic_tab_calendar_unselected.png
+SHA1-Digest: T7KyrZm0MZDFdCTZefs6TsteS94=
+
+Name: res/drawable-mdpi/ic_tab_namaaz_unselected.png
+SHA1-Digest: zD0ujUUgsQSTiIbdctBSK3kAQng=
+
+Name: res/drawable-mdpi-v5/ic_tab_qibla_unselected.png
+SHA1-Digest: 9/xDcVxYrGw/uwClrSNAz+Or7PU=
+
+Name: res/drawable-ldpi/ic_menu_settings.png
+SHA1-Digest: hCaZ4Z5+uHp66r6iZ4SOlATyo50=
+
+Name: res/drawable-mdpi-v5/ic_tab_namaaz_selected.png
+SHA1-Digest: /UkrpzSNX086s29SA360WrPAid4=
+
+Name: res/drawable-hdpi/ic_tab_namaaz_selected.png
+SHA1-Digest: YO+F+pgd3cbSIsts16fKSzyA+fs=
+
+Name: res/drawable-hdpi/ic_menu_mylocation.png
+SHA1-Digest: abPgZTX1nYPNUJK8OfdfNdlh0Y4=
+
+Name: res/drawable-hdpi-v5/ic_tab_calendar_selected.png
+SHA1-Digest: Il7/wAHPG33oYY0ICa1NTjsXjPk=
+
+Name: resources.arsc
+SHA1-Digest: q1kwLSamj5ewiC20fDNbAdEeBx8=
+
+Name: res/layout/widget.xml
+SHA1-Digest: BtgalkQJcn5Fmv9ukz8Xa7qP8M8=
+
+Name: res/drawable-ldpi/ic_menu_close.png
+SHA1-Digest: 6g+Cupby4lOk4VKzC3nK56eRHcY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: YpIwSN0n5O4yCCJvOYE2uXDif6Q=
+
+Name: res/layout/settings.xml
+SHA1-Digest: buP+1B4j8YQ+AtVSSe7rzniKbDs=
+
+Name: res/drawable-mdpi/ic_tab_qibla_unselected.png
+SHA1-Digest: 74IZXTlNiLVpSPUGK6t9B40Hjhw=
+
+Name: res/drawable/moon.png
+SHA1-Digest: MJpjG2yxe5OiKk0NYHyobzmHJO0=
+
+Name: res/drawable-mdpi/ic_tab_namaaz_selected.png
+SHA1-Digest: LQhhBgmH6rAGEX17QJf89tbzt0M=
+
+Name: res/drawable-hdpi/ic_tab_calendar_unselected.png
+SHA1-Digest: GA4RE+9/pPwZ61FnoKFLkvFdUWY=
+
+Name: res/drawable-mdpi/ic_tab_qibla_selected.png
+SHA1-Digest: DxI96+f59RUm1QDtSa1bWmILyXc=
+
+Name: res/drawable-mdpi-v5/ic_tab_namaaz_unselected.png
+SHA1-Digest: jrcS/JdrHLmHta406qKC0r0SjB8=
+
+Name: res/drawable-ldpi-v5/ic_tab_qibla_selected.png
+SHA1-Digest: eI1Qbsyip2E+PRSOZNLMZXTYyIE=
+
+Name: res/drawable-hdpi-v5/ic_tab_qibla_selected.png
+SHA1-Digest: U5y6gqiqLqX1ThmedZVjxL27VP4=
+
+Name: res/drawable-hdpi-v5/ic_tab_namaaz_selected.png
+SHA1-Digest: pLPwwCO2JqEiRl+dWSHhNYe0OHU=
+
+Name: res/drawable-ldpi/ic_tab_calendar_selected.png
+SHA1-Digest: OfLYgS5pGnAiLH4mXsHEUeWMrtA=
+
+Name: res/drawable-mdpi/ic_menu_mylocation.png
+SHA1-Digest: 5UyCcItYHhbhAeseKJBgPEvMGGg=
+
+Name: res/layout/location_settings.xml
+SHA1-Digest: 2ekddWf45CtJd65fx2s6jU6vL+0=
+
+Name: res/drawable/icon_small.png
+SHA1-Digest: B6NBsW143GOSQhaZjHhohZHjSJw=
+
+Name: res/drawable-mdpi-v5/ic_tab_calendar_selected.png
+SHA1-Digest: L0giq7o3Iw5j4+t1LD73Nom6aos=
+
+Name: res/drawable/ic_tab_calendar.xml
+SHA1-Digest: Q1HFtXArHJWhOW+mof02bjcJjsw=
+
+Name: res/drawable-mdpi-v5/ic_tab_qibla_selected.png
+SHA1-Digest: YEA06WxBxhrvjVYmQsZ9GCkl+IM=
+
+Name: res/drawable-mdpi/ic_menu_settings.png
+SHA1-Digest: g5WHJtrgthKnH0gL31MvLwhKNQs=
+
+Name: classes.dex
+SHA1-Digest: DoAF5lCiIpafGjock0rK2sxTt6o=
+
+Name: res/drawable-ldpi/ic_tab_namaaz_unselected.png
+SHA1-Digest: kgzewvVCLmTgFlGd5qadX17W7Ss=
+
+Name: res/drawable/sun.png
+SHA1-Digest: Gg2V+IYCzSsPiytzXViMhRmlRVg=
+
+Name: res/drawable-ldpi/ic_tab_qibla_unselected.png
+SHA1-Digest: Qi1ngimdCyojOZn4rC8Noraso8s=
+
+Name: res/layout/qibla.xml
+SHA1-Digest: jGmrTvj/VeBuxhq+nLoXQI9zS08=
+
+Name: res/drawable-hdpi/ic_tab_qibla_unselected.png
+SHA1-Digest: f66RIHY6lT/GEOnDiFBSyvpM4nI=
+
+Name: res/drawable-hdpi-v5/ic_tab_qibla_unselected.png
+SHA1-Digest: dCbGsXbigCMTJDJjnHPN5/nqxgg=
+
+Name: res/drawable-ldpi-v5/ic_tab_calendar_selected.png
+SHA1-Digest: Tlgg+mU9n6RBYIRsJz337vQzJO8=
+
+Name: res/drawable-ldpi-v5/ic_tab_calendar_unselected.png
+SHA1-Digest: Ko/BEgEmaEnJbaOKGVqs4Cu9CFU=
+
+Name: res/layout/date_picker.xml
+SHA1-Digest: MhAbfhKLuk39EfEXcxn2BKqcqD8=
+
+Name: res/xml/widget_settings.xml
+SHA1-Digest: dyqtA0tI2JcLe8kTx5629ate8mY=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: Rq2r/1f7j/lo2iGFiWRqNegvQN0=
+

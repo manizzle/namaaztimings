@@ -1,0 +1,33 @@
+package com.mohammed.spinnerdemo;
+
+
+import android.app.Activity;
+import com.mohammed.spinnerdemo.*;
+import android.os.Bundle;
+import android.view.Menu;
+import android.widget.ArrayAdapter;
+import android.widget.Spinner;
+
+
+
+public class MainActivity extends Activity {
+
+	private static Spinner spinner;
+	private static String[] args={"Namaaz","Qibla","Calander"};
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+		spinner=(Spinner)findViewById(R.id.myspinner);
+		ArrayAdapter<String>adapter=new ArrayAdapter<String>(this,android.R.layout.simple_spinner_dropdown_item,args);
+		spinner.setAdapter(adapter);
+		
+	}
+
+	@Override
+	public boolean onCreateOptionsMenu(Menu menu) {
+		// Inflate the menu; this adds items to the action bar if it is present.
+		getMenuInflater().inflate(R.menu.main, menu);
+		return true;
+	}
+
+}
